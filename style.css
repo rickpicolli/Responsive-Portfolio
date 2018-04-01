@@ -70,6 +70,7 @@ body{
   	padding: 0;
   	height: 100%;
   	color: #777;
+  	
 }
 
 .portfolio img{
@@ -138,14 +139,11 @@ width: 650px;
 }
 
 .container{
-	/*background-image: ('images/dust_scratches.png'*/)
-	background-color: green;
 	max-width: 960px;
 	width: 100%;
 	display: flex;
 	margin: 0 auto;
-	/*margin-left: 265px;*/
-	/*border: solid #dddddd;*/
+
 }
 
 .contact{
